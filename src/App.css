@@ -1,0 +1,28 @@
+.correct{
+    font-weight: bold;
+    color:green;
+}
+
+.incorrect{
+    font-weight: bold;
+    color:red;
+    
+}
+.active{
+    font-weight: bold;
+}
+
+input{
+    width: 100%;
+    height:5%;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    background-size: cover;
+    height: 100vh;
+}
